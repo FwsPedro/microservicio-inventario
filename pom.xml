@@ -11,6 +11,7 @@
 	<groupId>com.microservicio</groupId>
 	<artifactId>microservicio-inventario</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>microservicio-inventario</name>
 	<description>Ejemplo microservicio inventario</description>
 	<properties>
